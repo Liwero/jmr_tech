@@ -7,6 +7,8 @@
 Icon
 
 .idea
+/static
+/staticfiles
 # Thumbnails
 ._*
 
